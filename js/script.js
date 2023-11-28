@@ -7,7 +7,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typed", {
-        strings: ["Electrical Engineer..", "Process Engineer", "FH Masters student..", "Automation Engineer.."],
+        strings: ["Electrical Engineer..", "Process Engineer. .", "FH Masters..", "Automation Engineer.."],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
